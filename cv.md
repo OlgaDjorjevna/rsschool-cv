@@ -2,7 +2,7 @@
 # **Olga Glukhova**
 ## **Contacts**
 - **Location:** Elektrostal, Moscow region, Russia
-- **Phone:** +7(985)270-60-59
+- **Phone:** +7(496)573-77-91
 - **E-mail:** Dan19962008@yandex.ru
 - **GitHub:** OlgaDjorjevna
 ## **About Me**
