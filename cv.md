@@ -22,5 +22,7 @@ I have no experience in programming
 ## **Education**
 - **University:** Moscow Institute of Economics and Statistics
   - **Speciality:** Mechanized processing of economic information
-## **English**
+## **English:**
 A2 - elementary
+## **Project:**
+[Link to project](https://OlgaDjorjevna.github.io/rsschool-cv/cv)
