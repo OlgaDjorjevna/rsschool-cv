@@ -24,5 +24,3 @@ I have no experience in programming
   - **Speciality:** Mechanized processing of economic information
 ## **English:**
 A2 - elementary
-## **Project:**
-[Link to project](https://OlgaDjorjevna.github.io/rsschool-cv/cv)
